@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T15:00:14.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.24" etag="IpEpPOPvPsB1NVNd6TTL" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-31T15:01:11.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.24" etag="4Jmg98zjt8ZxHuGIIvZs" version="20.5.1" type="github" pages="2">
   <diagram id="Tsn9vCqfKBunVLGDBuH-" name="实验通路">
     <mxGraphModel dx="1583" dy="2283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -351,24 +351,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PApBp_KNOPSOuDcyGDOR-59" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="400" width="20" height="20" as="geometry" />
+          <mxGeometry x="900" y="399.78" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PApBp_KNOPSOuDcyGDOR-62" value="IP" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="800" y="360" width="60" height="20" as="geometry" />
+          <mxGeometry x="680" y="360" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PApBp_KNOPSOuDcyGDOR-65" value="时钟域" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="400" width="60" height="20" as="geometry" />
+          <mxGeometry x="760" y="400" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PApBp_KNOPSOuDcyGDOR-67" value="数据通路" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="369.76" as="targetPoint" />
-            <mxPoint x="880" y="369.76" as="sourcePoint" />
+            <mxPoint x="920" y="369.53999999999996" as="targetPoint" />
+            <mxPoint x="840" y="369.53999999999996" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PApBp_KNOPSOuDcyGDOR-68" value="时钟线" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="409.76" as="targetPoint" />
-            <mxPoint x="880" y="409.76" as="sourcePoint" />
+            <mxPoint x="920" y="409.53999999999996" as="targetPoint" />
+            <mxPoint x="840" y="409.53999999999996" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PApBp_KNOPSOuDcyGDOR-71" value="adcIn" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;endArrow=classic;endFill=1;sketch=0;fillColor=#fff2cc;" edge="1" parent="1">
@@ -391,8 +391,8 @@
         </mxCell>
         <mxCell id="PApBp_KNOPSOuDcyGDOR-76" value="控制通路" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="450" as="targetPoint" />
-            <mxPoint x="880" y="450" as="sourcePoint" />
+            <mxPoint x="920" y="449.78" as="targetPoint" />
+            <mxPoint x="840" y="449.78" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PApBp_KNOPSOuDcyGDOR-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#d6b656;endArrow=classic;endFill=1;fillColor=#fff2cc;" edge="1" parent="1" source="PApBp_KNOPSOuDcyGDOR-82" target="PApBp_KNOPSOuDcyGDOR-19">
@@ -400,6 +400,12 @@
         </mxCell>
         <mxCell id="PApBp_KNOPSOuDcyGDOR-82" value="Frame&lt;br&gt;Builder" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="510" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PApBp_KNOPSOuDcyGDOR-85" value="Spinal" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PApBp_KNOPSOuDcyGDOR-86" value="Verilog" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
