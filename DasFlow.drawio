@@ -302,12 +302,12 @@
         <mxCell id="TVwda_yAYKdPDHhmBfI9-122" value="JOIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TVwda_yAYKdPDHhmBfI9-130" value="strai rate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TVwda_yAYKdPDHhmBfI9-127">
+        <mxCell id="TVwda_yAYKdPDHhmBfI9-130" value="strain rate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TVwda_yAYKdPDHhmBfI9-127">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="999.7241379310344" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TVwda_yAYKdPDHhmBfI9-127" value="MER&lt;br&gt;GE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TVwda_yAYKdPDHhmBfI9-127" value="MER&lt;br&gt;GE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="980" y="880" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
